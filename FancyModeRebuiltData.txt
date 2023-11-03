@@ -1,0 +1,12 @@
+04/22/2023 22:49:15|19
+Type Order
+FancyMode.HarmonyDependencyResolver
+FancyMode.FancyMode
+FancyMode.Updater
+FancyMode.HarmonyPatches.GetEquipmentPatch
+FancyMode.HarmonyPatches.UnragdollPatch
+FancyMode.HarmonyPatches.ManipulateVisibilityPatch
+FancyMode.HarmonyPatches.SoftImpactPatch
+FancyMode.HarmonyDependencyResolver+<>c__DisplayClass1_0
+FancyMode.FancyMode+<>c
+FancyMode.FancyMode+<>c__DisplayClass7_0
